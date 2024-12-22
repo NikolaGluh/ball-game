@@ -5,7 +5,7 @@ local SpikeHandler = require('SpikeHandler')
 local ScreenSettings = require('ScreenSettings')
 
 -- Assets
-local spike = love.graphics.newImage('Assets/spikeWhite.png')
+local spike = love.graphics.newImage('Assets/spike.png')
 local wallHit = love.audio.newSource('Assets/WallHit.wav', 'static')
 
 -- Calculate amount of spikes based on player's score

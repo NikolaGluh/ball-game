@@ -1,7 +1,7 @@
 # ball-game
 A simple game written in Lua using LOVE 2D game engine, very buggy and WIP. This project is inspired by `Don't touch the spikes` mobile game, I started work on this project on 12/21/2024.
 
-**DOWNLOAD LATEST RELEASE [HERE](https://github.com/NikolaGluh/ball-game/releases/tag/v1.0.0).**
+**DOWNLOAD LATEST RELEASE [HERE](https://github.com/NikolaGluh/ball-game/releases).**
 
 P.S. I tried to make game playable in browser on itch.io, but I couldn't do it :(
 

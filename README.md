@@ -3,7 +3,14 @@ A simple game written in Lua using LOVE 2D game engine, very buggy and WIP. This
 
 **DOWNLOAD LATEST RELEASE [HERE](https://github.com/NikolaGluh/ball-game/releases/tag/v1.0.0).**
 
+P.S. I tried to make game playable in browser on itch.io, but I couldn't do it :(
+
 Changelog:
+1/3/2025 - Update 2:
+- changed score themes
+- game will now restart after 3 seconds instead of closing itself
+- added 'cubes' that spawn close to spikes and give players additional points
+- added music (made by boredome)
 12/22/2024 - Update 1:
 - fixed collision on player
 - made spike collisions more lenient
